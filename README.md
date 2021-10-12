@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Olá 👋 eu sou o Allan Alvarenga</h1>
+<h3 align="center">Sou um estudante de Desenvolvimento web - IFSP</h3>
 
-<!--
-**alvarenga-allan/alvarenga-allan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo **HTML5, CSS3, Lógica de programação, JavaScript**
 
-Here are some ideas to get you started:
+- 📫 Meu contato é: **allan.baptista@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/allanalvarenga/](https://www.linkedin.com/in/allanalvarenga/)
+
+- ⚡ Uma curiosidade sobre mim: **Sou Doutor em Ecologia e conservação pela UFPR**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/allanalvarenga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allanalvarenga/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
