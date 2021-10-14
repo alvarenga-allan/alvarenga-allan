@@ -1,11 +1,9 @@
 <h1 align="center">Olá 👋 eu sou o Allan Alvarenga</h1>
 <h3 align="center">Sou um estudante de Desenvolvimento web - IFSP</h3>
 
-- 🌱 Atualmente estou aprendendo **HTML5, CSS3, Lógica de programação, JavaScript**
+- 🌱 Atualmente estou aprendendo **HTML5, CSS3, Lógica de programação, JavaScript e Python**
 
 - 📫 Meu contato é: **allan.baptista@gmail.com**
-
-- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/allanalvarenga/](https://www.linkedin.com/in/allanalvarenga/)
 
 - ⚡ Uma curiosidade sobre mim: **Sou Doutor em Ecologia e conservação pela UFPR**
 
