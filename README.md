@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 eu sou o Allan Alvarenga</h1>
-<h3 align="center">Sou um estudante de Desenvolvimento web - IFSP</h3>
+<h3 align="center">Desenvolvedor web na Capitual</h3>
 
-- 🌱 Atualmente estou aprendendo **HTML5, CSS3, Lógica de programação, JavaScript e Python**
+- 🌱 Atualmente estou aprendendo **HTML5, CSS3, Lógica de programação, JavaScript**
 
 - 📫 Meu contato é: **allan.baptista@gmail.com**
 
