@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 eu sou o Allan Alvarenga</h1>
-<h3 align="center">Desenvolvedor web na Capitual</h3>
+<h3 align="center">Analista de desenvolvimento na Capitual</h3>
 
 - 🌱 Atualmente estou aprendendo **HTML5, CSS3, Lógica de programação, JavaScript**
 
