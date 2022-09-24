@@ -7,7 +7,7 @@
 
 - ⚡ Uma curiosidade sobre mim: **Sou Doutor em Ecologia e conservação pela UFPR**.
 
-- 🔭 Sou estudante de **ciência da computação** pela faculdade Impacta.
+- 🔭 Sou estudante de **Sistemas de informação** pela Faculdade Impacta.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
