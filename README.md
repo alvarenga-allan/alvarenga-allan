@@ -1,17 +1,20 @@
 <h1 align="center">Olá 👋 eu sou o Allan Sanches</h1>
-<h3 align="center">Desenvolvedor front-end e Designer de produtos</h3>
+<h2 align="center">Desenvolvedor front-end</h2>
 
-- 🌱 Atualmente trabalho com  **HTML5, CSS3, JavaScript, React, Typescript, Figma e Framer**.
+Sou desenvolvedor front-end e atualmente contribuo para a melhoria dos sites da SMILES e VOEBIZ, programas de fidelidade da GOL Airlines, desenvolvendo para desktop e mobile. Meu trabalho envolve manutenção de código e criação de novas funcionalidades.
+
+Tenho experiência com React, TypeScript, JavaScript, CSS, Sass, e realizo testes com React Testing Library e Jest. Trabalho com RESTful APIs, Redux, e pipelines de CI/CD (Jenkins), SonarQube, versionando todo código com Git e GitHub. Além disso, atuo no gerenciamento de conteúdos através da plataforma Liferay, facilitando a autonomia das equipes de comunicação do cliente.
+
+Diariamente, colaboro com designers UX, Agile Masters, QA, PO, PM, desenvolvedores back-end e arquitetos front-end, utilizando metodologias ágeis como Scrum e Kanban para manter uma entrega contínua e de qualidade.
+
+Sou doutor em Ecologia e Conservação, área em que desenvolvi habilidades em comunicação, trabalho em equipe e gestão de projetos. Trago essa experiência multidisciplinar para o desenvolvimento, sempre em busca de novos desafios para aprender e contribuir.
+
 
 - 📫 Meu contato é: **allan.baptista@gmail.com**.
 
-- ⚡ Uma curiosidade sobre mim: **Sou Doutor em Ecologia e conservação pela UFPR**.
-
-- 🔭 Sou estudante de **Design Gráfico** pela Uninter
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/allanmsanches/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allansanches/" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/sanchesallan/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allansanches/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
